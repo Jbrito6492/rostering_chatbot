@@ -69,4 +69,5 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "langchainrb", "~> 0.13.4"
+gem "langchainrb"
+gem "ruby-openai"
