@@ -72,3 +72,4 @@ end
 gem "aws-sdk-bedrockruntime"
 gem "langchainrb"
 gem "ruby-openai"
+gem "pgvector" # for Postgres vector search
