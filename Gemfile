@@ -69,5 +69,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
+gem "aws-sdk-bedrockruntime"
 gem "langchainrb"
 gem "ruby-openai"
