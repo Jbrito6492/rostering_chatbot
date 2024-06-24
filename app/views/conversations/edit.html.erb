@@ -1,6 +1,14 @@
 <div class="mx-auto md:w-2/3 w-full">
   <h1 class="font-bold text-4xl">Editing conversation</h1>
 
+  <% @conversation.messages.each do |message| %>
+    <div class="bg-gray-100 rounded-lg p-3 mt-3">
+      <p class="font-medium"><%= message.role %></p>
+      <p><%= message.content %></p>
+      <p class="text-sm text-gray-500"><%= message.llm_provider %></p>
+    </div>
+  <% end %>
+
   <%= render "form", conversation: @conversation %>
 
   <%= link_to "Show this conversation", @conversation, class: "ml-2 rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>

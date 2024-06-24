@@ -26,7 +26,7 @@ class ConversationsController < ApplicationController
 
     respond_to do |format|
       if @conversation.save
-        format.html { redirect_to conversation_url(@conversation), notice: "Conversation was successfully created." }
+        format.html { redirect_to edit_conversation_url(@conversation), notice: "Conversation was successfully created." }
         format.json { render :show, status: :created, location: @conversation }
       else
         format.html { render :new, status: :unprocessable_entity }
@@ -66,6 +66,6 @@ class ConversationsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def conversation_params
-      params.require(:conversation).permit(messages_attributes: [:content, :llm_provider])
+      params.require(:conversation).permit(messages_attributes: [:content, :llm_provider, :role])
     end
 end
