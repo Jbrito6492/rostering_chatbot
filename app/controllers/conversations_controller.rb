@@ -13,6 +13,7 @@ class ConversationsController < ApplicationController
   # GET /conversations/new
   def new
     @conversation = Conversation.new
+    @conversation.messages.build
   end
 
   # GET /conversations/1/edit
@@ -65,6 +66,6 @@ class ConversationsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def conversation_params
-      params.fetch(:conversation, {})
+      params.require(:conversation).permit(messages_attributes: [:content, :llm_provider])
     end
 end
