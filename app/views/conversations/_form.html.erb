@@ -12,6 +12,8 @@
   <% end %>
 
   <%= form.fields_for :messages do |message_form| %>
+    <%= message_form.hidden_field :role, value: "user" %>
+
     <div class="my-5">
       <%= message_form.label :content %>
       <%= message_form.text_area :content, rows: 4, class: "block shadow rounded-md border border-gray-400 outline-none px-3 py-2 mt-2 w-full" %>
