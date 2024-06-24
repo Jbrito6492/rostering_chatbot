@@ -11,4 +11,9 @@ class Conversation < ApplicationRecord
       raise ArgumentError.new("Invalid LLM type: #{llm}")
     end
   end
+
+  def one_roster_integrated_client(llm: 'bedrock')
+    specification_pdf = Langchain.root.join(Rails.root, 'lib', 'data', 'docs', 'oneroster_v11_final_specification.pdf')
+    client(llm:).add_data(paths: [specification_pdf])
+  end
 end
