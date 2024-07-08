@@ -5,7 +5,8 @@ class Message < ApplicationRecord
 
   def generate_response
     client = conversation.one_roster_integrated_client(llm_provider:)
-    response = client.ask(question: content)
-    conversation.messages.create!(content: response, role: 'bot', llm_provider:)
+    llm_response = client.ask(question: content)
+
+    conversation.messages.create!(content: llm_response.chat_completion, role: 'bot', llm_provider:)
   end
 end

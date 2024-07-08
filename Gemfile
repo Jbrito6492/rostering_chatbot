@@ -70,9 +70,10 @@ group :test do
   gem "selenium-webdriver"
 end
 
+gem "anthropic", "~> 0.1.0"
 gem "aws-sdk-bedrockruntime"
 gem "langchainrb"
 gem "ruby-openai"
-gem "pgvector" # for Postgres vector search
+gem "pgvector" # for vector search
 gem 'sequel' # dependency of pgvector
-gem 'pdf-reader' # dependency of langchainrb
+gem 'weaviate-ruby' # for weaviate
