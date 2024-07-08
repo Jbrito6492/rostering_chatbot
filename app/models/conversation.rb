@@ -25,7 +25,6 @@ class Conversation < ApplicationRecord
       index_name: "Documents",
       llm:  llm(llm_provider:)
     )
-    # client = Langchain::Vectorsearch::Pgvector.new(url: ENV['POSTGRES_URL'], index_name: 'messages', llm: llm(llm_provider:))
     client.add_texts(texts: chunks.map(&:text))
     client
   end

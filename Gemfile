@@ -74,6 +74,4 @@ gem "anthropic", "~> 0.1.0"
 gem "aws-sdk-bedrockruntime"
 gem "langchainrb"
 gem "ruby-openai"
-gem "pgvector" # for vector search
-gem 'sequel' # dependency of pgvector
 gem 'weaviate-ruby' # for weaviate
