@@ -4,7 +4,7 @@ class Conversation < ApplicationRecord
 
   def llm(llm_provider: 'bedrock')
     if llm_provider == 'bedrock'
-      Langchain::LLM::AwsBedrock.new(completion_model: 'anthropic.claude-3-sonnet-20240229-v1:0')
+      Langchain::LLM::AwsBedrock.new(completion_model: 'anthropic.claude-3-5-sonnet-20240620-v1:0')
     elsif llm_provider == 'openai'
       Langchain::LLM::OpenAI.new(api_key: ENV['OPENAI_KEY'],
                                  default_options: { chat_completion_model_name: 'gpt-4' })
