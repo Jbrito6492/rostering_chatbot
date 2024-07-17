@@ -1,12 +1,5 @@
-<div id="<%= dom_id message %>">
-  <p class="my-5">
-    <strong class="block font-medium mb-1">Content:</strong>
-    <%= message.content %>
-  </p>
-
-  <p class="my-5">
-    <strong class="block font-medium mb-1">Conversation:</strong>
-    <%= message.conversation_id %>
-  </p>
-
+<div class="bg-gray-100 rounded-lg p-3 mt-3">
+  <p class="font-medium"><%= message.role %></p>
+  <p><%= message.content %></p>
+  <p class="text-sm text-gray-500"><%= message.llm_provider %></p>
 </div>
