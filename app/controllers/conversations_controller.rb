@@ -18,6 +18,7 @@ class ConversationsController < ApplicationController
 
   # GET /conversations/1/edit
   def edit
+    @message = @conversation.messages.build(role: "user")
   end
 
   # POST /conversations or /conversations.json
