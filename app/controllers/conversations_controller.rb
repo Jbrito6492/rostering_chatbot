@@ -40,7 +40,7 @@ class ConversationsController < ApplicationController
   def update
     respond_to do |format|
       if @conversation.update(conversation_params)
-        format.html { redirect_to conversation_url(@conversation), notice: "Conversation was successfully updated." }
+        format.html { redirect_to edit_conversation_url(@conversation), notice: "Conversation was successfully updated." }
         format.json { render :show, status: :ok, location: @conversation }
       else
         format.html { render :edit, status: :unprocessable_entity }
@@ -60,13 +60,14 @@ class ConversationsController < ApplicationController
   end
 
   private
-    # Use callbacks to share common setup or constraints between actions.
-    def set_conversation
-      @conversation = Conversation.find(params[:id])
-    end
 
-    # Only allow a list of trusted parameters through.
-    def conversation_params
-      params.require(:conversation).permit(messages_attributes: [:content, :llm_provider, :role])
-    end
+  # Use callbacks to share common setup or constraints between actions.
+  def set_conversation
+    @conversation = Conversation.find(params[:id])
+  end
+
+  # Only allow a list of trusted parameters through.
+  def conversation_params
+    params.require(:conversation).permit(messages_attributes: [:content, :llm_provider, :role])
+  end
 end
