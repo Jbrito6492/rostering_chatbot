@@ -18,14 +18,6 @@
       <%= message_form.label :content %>
       <%= message_form.text_area :content, rows: 4, class: "block shadow rounded-md border border-gray-400 outline-none px-3 py-2 mt-2 w-full" %>
     </div>
-
-    <div class="my-5">
-      <%= message_form.label :llm_provider, "LLM Provider" %>
-      <%= message_form.select :llm_provider,
-                              options_for_select([%w[Bedrock bedrock], %w[OpenAI openai]], 'bedrock'),
-                              {},
-                              class: "block shadow rounded-md border border-gray-400 outline-none px-3 py-2 mt-2 w-full" %>
-    </div>
   <% end %>
 
   <div class="inline">

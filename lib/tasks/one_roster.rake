@@ -21,3 +21,5 @@ namespace :one_roster do
     end
   end
 end
+
+# client.objects.list(class_name: 'User')
