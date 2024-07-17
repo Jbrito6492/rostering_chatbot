@@ -1,7 +1,7 @@
 <% if message.content.present? %>
   <div class="bg-gray-100 rounded-lg p-3 mt-3">
     <p class="font-medium"><%= message.role %></p>
-    <p><%= message.content %></p>
+    <div><%= format_content_with_embedded_json(message.content) %></div>
     <p class="text-sm text-gray-500"><%= message.llm_provider %></p>
   </div>
 <% end %>
