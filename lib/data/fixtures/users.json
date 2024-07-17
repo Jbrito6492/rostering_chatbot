@@ -1,0 +1,4010 @@
+{
+  "users": [
+    {
+      "sourcedId": "6e9ab422-5b95-4b48-9844-0d990b328f06",
+      "status": "active",
+      "dateLastModified": "2021-03-12T05:33:35.320Z",
+      "metadata": {
+        "StrongMind": {
+          "selfGuardian": false
+        }
+      },
+      "username": "LukeSkywalker10004",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "1"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "10004"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "85127932-932a-4b2d-bcad-b0f5e044f32f"
+        }
+      ],
+      "enabledUser": "false",
+      "givenName": "Luke",
+      "familyName": "Skywalker",
+      "role": "student",
+      "identifier": "10004",
+      "email": "luke.skywalker7701@smdev2.org",
+      "sms": "480-555-5555",
+      "phone": "480-555-5555",
+      "agents": [
+        {
+          "href": "https://api.platform.strongmind.com/ims/oneroster/v1p1/users/d72cf28f-f890-4ab0-b367-fc4bcb71f888",
+          "sourcedId": "d72cf28f-f890-4ab0-b367-fc4bcb71f888",
+          "type": "user"
+        },
+        {
+          "href": "https://api.platform.strongmind.com/ims/oneroster/v1p1/users/f563b292-466d-461e-8bec-7f284730fb67",
+          "sourcedId": "f563b292-466d-461e-8bec-7f284730fb67",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/7b98ae7d-1387-4f6a-9e6a-dfd21b420248",
+          "sourcedId": "7b98ae7d-1387-4f6a-9e6a-dfd21b420248",
+          "type": "org"
+        }
+      ],
+      "grades": [
+        "06"
+      ]
+    },
+    {
+      "sourcedId": "c10e0b73-5256-407d-80bc-720277393492",
+      "status": "active",
+      "dateLastModified": "2021-04-01T08:10:36.004Z",
+      "metadata": {
+        "StrongMind": {
+          "selfGuardian": false
+        }
+      },
+      "username": "BrianHouston372120",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "852"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "9343654"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "fd2985c0-7827-466b-b1e7-fe8fb0a13b69"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Brian",
+      "familyName": "Houston",
+      "middleName": "Attempt17",
+      "role": "student",
+      "identifier": "9343654",
+      "email": "brian123@test.strongmind.com",
+      "sms": "(623)982-8723",
+      "phone": "(623)982-8723",
+      "agents": [
+        {
+          "href": "https://api.platform.strongmind.com/ims/oneroster/v1p1/users/1fa869b8-883d-4edf-b1d7-702eb6e1872b",
+          "sourcedId": "1fa869b8-883d-4edf-b1d7-702eb6e1872b",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/2b5e3da8-811d-437d-b407-46fbc33f27a4",
+          "sourcedId": "2b5e3da8-811d-437d-b407-46fbc33f27a4",
+          "type": "org"
+        }
+      ],
+      "grades": [
+        "11"
+      ]
+    },
+    {
+      "sourcedId": "ef8b48a7-0c8c-4ca0-b5f3-d9cb979e7d9a",
+      "status": "active",
+      "dateLastModified": "2022-07-21T23:26:00.568Z",
+      "metadata": {
+        "StrongMind": {
+          "selfGuardian": false
+        }
+      },
+      "username": "TestTester10003",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "2951"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "10003"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "df0d84bc-ae37-4611-9692-bbb7aa62b10c"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Test",
+      "familyName": "Tester",
+      "role": "student",
+      "identifier": "10003",
+      "email": "test@test.com",
+      "agents": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/197b0be6-39ed-4460-8177-1c8529804e78",
+          "sourcedId": "197b0be6-39ed-4460-8177-1c8529804e78",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/7b98ae7d-1387-4f6a-9e6a-dfd21b420248",
+          "sourcedId": "7b98ae7d-1387-4f6a-9e6a-dfd21b420248",
+          "type": "org"
+        }
+      ],
+      "grades": [
+        "08"
+      ]
+    },
+    {
+      "sourcedId": "6d61f459-0302-4e0a-92e2-b76d88db8577",
+      "status": "active",
+      "dateLastModified": "2023-06-17T17:48:14.348Z",
+      "metadata": {
+        "StrongMind": {
+          "selfGuardian": false,
+          "partTimeStudent": false,
+          "physicalAddress": {
+            "street": null,
+            "city": null,
+            "state": "AZ",
+            "zip": null
+          }
+        }
+      },
+      "username": "johnvtest",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "2764"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "10065"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "fad67f55-d177-46bb-a855-5deeea119e36"
+        }
+      ],
+      "enabledUser": "false",
+      "givenName": "Test",
+      "familyName": "John V",
+      "role": "student",
+      "identifier": "10065",
+      "email": "xattaseviss-4176@yopmail.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "sourcedId": "5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "type": "org"
+        }
+      ],
+      "grades": [
+        "09"
+      ]
+    },
+    {
+      "sourcedId": "a4b04be1-8ab7-4151-bfe3-7649ce03b56b",
+      "status": "active",
+      "dateLastModified": "2024-06-25T01:49:47.753Z",
+      "username": "LeShae_Daniel_0abdb22f673a5662",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "57"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "ldaniel"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "34042cae-3a31-471c-89b1-0ee0b9e8daeb"
+        },
+        {
+          "type": "powerschool_users_dcid",
+          "identifier": "57"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "LeShae",
+      "familyName": "Daniel",
+      "role": "teacher",
+      "identifier": "ldaniel",
+      "email": "LeShae.Daniel@strongmind.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "sourcedId": "5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "c17a88bb-f53d-4daa-a692-04496df57c29",
+      "status": "active",
+      "dateLastModified": "2024-06-25T01:44:53.605Z",
+      "username": "Colin_Shea_e830ca41ab77fa46",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "451"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "333"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "b9fcbb78-468e-4857-8b4c-156c45440956"
+        },
+        {
+          "type": "powerschool_users_dcid",
+          "identifier": "170"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Colin",
+      "familyName": "Shea",
+      "role": "teacher",
+      "identifier": "333",
+      "email": "colin.shea@strongmind.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/7b98ae7d-1387-4f6a-9e6a-dfd21b420248",
+          "sourcedId": "7b98ae7d-1387-4f6a-9e6a-dfd21b420248",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "02e120be-28b9-431c-9083-d951d65ab97b",
+      "status": "active",
+      "dateLastModified": "2023-06-17T17:49:07.581Z",
+      "metadata": {
+        "StrongMind": {
+          "relationType": "Mother"
+        }
+      },
+      "username": "SarahEdwards3001C",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "3051"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "ef6bcebc-f1d6-463e-be3b-741d8fea6616"
+        },
+        {
+          "type": "powerschool_id",
+          "identifier": "3001"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Sarah",
+      "familyName": "Edwards",
+      "role": "guardian",
+      "identifier": "3001",
+      "email": "pshippy+sarahedwards@gmail.com",
+      "agents": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/f2326e48-d2c9-4308-8862-022338f66f12",
+          "sourcedId": "f2326e48-d2c9-4308-8862-022338f66f12",
+          "type": "user"
+        },
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/a09debc4-1a3f-4da6-845a-12b08d2186ba",
+          "sourcedId": "a09debc4-1a3f-4da6-845a-12b08d2186ba",
+          "type": "user"
+        },
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/a718263a-dc21-437c-ba99-4b9bdfdcd48f",
+          "sourcedId": "a718263a-dc21-437c-ba99-4b9bdfdcd48f",
+          "type": "user"
+        },
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/04451145-6321-4b37-9eb6-60870208b83d",
+          "sourcedId": "04451145-6321-4b37-9eb6-60870208b83d",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "sourcedId": "5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "b7781b00-0cc3-430b-8cfe-74335fd49deb",
+      "status": "active",
+      "dateLastModified": "2023-12-14T07:00:17.696Z",
+      "metadata": {
+        "StrongMind": {
+          "address": {
+            "street": "2501 North Arizona Avenue",
+            "street2": null,
+            "city": "Chandler",
+            "zip": "85225"
+          },
+          "relationType": "Parent"
+        }
+      },
+      "username": "FlorFlower2552C",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "2602"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "dc0d1608-7297-41be-be9f-c883bc3cdc6a"
+        },
+        {
+          "type": "powerschool_id",
+          "identifier": "2552"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Flor",
+      "familyName": "Flower",
+      "role": "guardian",
+      "identifier": "2552",
+      "email": "pshippy+floparent@gmail.com",
+      "phone": "4444444444",
+      "agents": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/73d52ac8-c1e2-4815-b00c-c08b4d08e95d",
+          "sourcedId": "73d52ac8-c1e2-4815-b00c-c08b4d08e95d",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "sourcedId": "5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "d72cf28f-f890-4ab0-b367-fc4bcb71f888",
+      "status": "active",
+      "dateLastModified": "2024-03-22T19:08:11.266Z",
+      "metadata": {
+        "StrongMind": {
+          "relationType": "Mother"
+        }
+      },
+      "username": "PadmeAmidala4351C",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "4401"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "1c489135-6c38-4477-b18c-0462b7113a17"
+        },
+        {
+          "type": "powerschool_id",
+          "identifier": "4351"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Padme",
+      "familyName": "Amidala",
+      "role": "guardian",
+      "identifier": "4351",
+      "email": "pshippy+padme@gmail.com",
+      "agents": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/6e9ab422-5b95-4b48-9844-0d990b328f06",
+          "sourcedId": "6e9ab422-5b95-4b48-9844-0d990b328f06",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "sourcedId": "5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "883ef8eb-cf66-4e44-9a98-a3a866bea0d6",
+      "status": "active",
+      "dateLastModified": "2023-06-17T17:51:52.949Z",
+      "metadata": {
+        "StrongMind": {
+          "selfGuardian": false,
+          "partTimeStudent": false,
+          "physicalAddress": {
+            "street": "56 ghj ln",
+            "city": "wer",
+            "state": "KY",
+            "zip": "56646"
+          }
+        }
+      },
+      "username": "Leviweeks537489",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "1751"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "537489"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "fce64ac8-06e1-4b88-8ff6-1f93ba26288c"
+        }
+      ],
+      "enabledUser": "false",
+      "givenName": "Levi",
+      "familyName": "weekst",
+      "role": "student",
+      "identifier": "537489",
+      "email": "xijekomamme-2048@yopmail.com",
+      "sms": "(986)654-7654",
+      "phone": "(986)654-7654",
+      "agents": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/b3787fd5-2f49-4b43-8e29-ef030de4459f",
+          "sourcedId": "b3787fd5-2f49-4b43-8e29-ef030de4459f",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "sourcedId": "5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "type": "org"
+        }
+      ],
+      "grades": [
+        "08"
+      ]
+    },
+    {
+      "sourcedId": "c6590c2e-0ce1-4080-9d30-043c7517f17c",
+      "status": "tobedeleted",
+      "dateLastModified": "2023-02-21T19:35:02.748Z",
+      "username": "612c7b6f9256611433b9f628",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "5bb953c9-cab8-4029-ae94-a68d4cbc8345"
+        },
+        {
+          "type": "clever_id",
+          "identifier": "612c7b6f9256611433b9f628"
+        },
+        {
+          "type": "district_username",
+          "identifier": "clevertest"
+        },
+        {
+          "type": "sis_id",
+          "identifier": "609c0f8b1e49e8000161b585-612c7b6f9256611433b9f627"
+        },
+        {
+          "type": "student_number",
+          "identifier": "34567"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "clever",
+      "familyName": "cloudcanvas",
+      "role": "student",
+      "identifier": "609c0f8b1e49e8000161b585-612c7b6f9256611433b9f627",
+      "email": "xaugahevatta-2952@yopmail.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/d5a75401-1616-4dc3-b00f-048967e911ca",
+          "sourcedId": "d5a75401-1616-4dc3-b00f-048967e911ca",
+          "type": "org"
+        }
+      ],
+      "grades": [
+        "07"
+      ]
+    },
+    {
+      "sourcedId": "99264054-dfdc-482c-8f98-383c332bf0f9",
+      "status": "active",
+      "dateLastModified": "2022-03-07T21:07:51.749Z",
+      "username": "dadCanvas1C5903",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "5953"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "66307ed5-d79a-4e4b-9b07-bb09649689ef"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "dad",
+      "familyName": "Canvas1",
+      "role": "guardian",
+      "identifier": "5903",
+      "email": "canvas1@dad.com",
+      "agents": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/d5beedb4-37ce-49e0-a975-677906aea8fa",
+          "sourcedId": "d5beedb4-37ce-49e0-a975-677906aea8fa",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/98e2082f-21fc-4700-a4fe-de913f3e69c6",
+          "sourcedId": "98e2082f-21fc-4700-a4fe-de913f3e69c6",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "45c6f067-9fbf-4a79-9aa2-40dc0c351d0c",
+      "status": "active",
+      "dateLastModified": "2023-06-17T17:49:15.080Z",
+      "metadata": {
+        "StrongMind": {
+          "relationType": "Mother"
+        }
+      },
+      "username": "ParentOsborn5951C",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "6001"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "f5649233-b532-4e59-925d-fab8af59a7fe"
+        },
+        {
+          "type": "powerschool_id",
+          "identifier": "5951"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Parent",
+      "familyName": "Osborn",
+      "role": "guardian",
+      "identifier": "5951",
+      "email": "babequocauppa-6556@yopmail.com",
+      "agents": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/22cd7f4f-285d-460d-aed3-64a6dea07443",
+          "sourcedId": "22cd7f4f-285d-460d-aed3-64a6dea07443",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "sourcedId": "5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "de25a98f-1c44-4daa-91ce-05d59cb6838c",
+      "status": "active",
+      "dateLastModified": "2021-11-16T16:38:56.950Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "3b35c91b895344e832be760c01fea91eb3652db6a1060c9a01393ea43c59c038"
+        }
+      },
+      "username": "LeiaOrgana10005",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "54654011-82aa-42a4-a1d7-22a33e1b60d7"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7761"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "ZFsGdsCl4DWozrQlbDhQelmndXFmr9pq1Ng2fmcE"
+        },
+        {
+          "type": "canvas_sis_user_id",
+          "identifier": "1:student:7761"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Leia",
+      "familyName": "Organa",
+      "role": "student",
+      "identifier": "54654011-82aa-42a4-a1d7-22a33e1b60d7",
+      "email": "organa@leia.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "0988b619-1d08-4317-b565-ce429fb0c372",
+      "status": "active",
+      "dateLastModified": "2022-06-15T21:09:09.183Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "ee17b9af8a51347bbc87e4e2eaf0c3f649d2c53520aef50741038e5185de4d2b"
+        }
+      },
+      "username": "jarred_jongjong_aa9d53d0",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "0dff31b8-9c1b-4714-b519-87908b4a5799"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7803"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "5IttOTQvBdV5nX4qTtVh9NjMAwwcFmQQp4DxaRhB"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "jarred",
+      "familyName": "derraj",
+      "role": "student",
+      "identifier": "0dff31b8-9c1b-4714-b519-87908b4a5799",
+      "email": "jongjong@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "4d8aeb3c-ada0-4301-8c71-8256374c5355",
+      "status": "active",
+      "dateLastModified": "2022-03-15T17:05:01.448Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "970e6f2a1b5c18b658f20ffa12b93a4514831b3d2cfc8ad5b38ef1a6ed6686cc"
+        }
+      },
+      "username": "cloud_school_2cf4e643",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "22f8c4f8-2544-4deb-b37e-7e169b67c542"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7688"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "8C1a1C9uKDGp8BSr9EcaZs1DWhwdDCD3OM8Us54D"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Cloud School",
+      "familyName": "Admin",
+      "role": "student",
+      "identifier": "22f8c4f8-2544-4deb-b37e-7e169b67c542",
+      "email": "joseph.murray.az+csadm@gmail.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/4c01891b-d347-45f4-82f6-4b74fc8871df",
+          "sourcedId": "4c01891b-d347-45f4-82f6-4b74fc8871df",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "351c6214-2918-49d7-b97c-04d285df25b0",
+      "status": "active",
+      "dateLastModified": "2023-06-17T17:48:48.628Z",
+      "metadata": {
+        "StrongMind": {
+          "selfGuardian": false,
+          "partTimeStudent": false,
+          "physicalAddress": {
+            "street": null,
+            "city": null,
+            "state": "AZ",
+            "zip": null
+          }
+        }
+      },
+      "username": "testJanuary23000127",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "4003"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "23000127"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "e28382c9-398d-4a74-b9c3-d0b46942b53b"
+        }
+      ],
+      "enabledUser": "false",
+      "givenName": "test",
+      "familyName": "January",
+      "role": "student",
+      "identifier": "23000127",
+      "email": "january@test.com",
+      "agents": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/832ddbdb-1ebf-4c01-bb1f-93f3f4ae05bc",
+          "sourcedId": "832ddbdb-1ebf-4c01-bb1f-93f3f4ae05bc",
+          "type": "user"
+        },
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/d167f3cc-a361-450a-bc8c-ad9daa9ce676",
+          "sourcedId": "d167f3cc-a361-450a-bc8c-ad9daa9ce676",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "sourcedId": "5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "type": "org"
+        }
+      ],
+      "grades": [
+        "10"
+      ]
+    },
+    {
+      "sourcedId": "3deb8511-ccb3-4f9f-91b4-df46635be5a7",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:06:17.524Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "a670c0122c7ecabadf4fc18ab545980550e670ddd37b0f99fe9088ffa8fb030b"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "a68466a4-732e-483f-8037-42489f682d97",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:07:01.758Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "5a191b43ebed5da695aa868c5f5a64c21cd22f9e25f0cb4bbc069bbbc02baeb3"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "8e98d6e1-0a8c-4a8d-81f0-8879bd35a7ba",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:07:35.423Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "b27ce05f4e0a4c54d5169bc4c9113ff68f5ca3ea3a2ea83039bab0ade72f247e"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "02911927-aeb9-4ebe-b9d3-e9db857d488c",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:08:20.164Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "d41aa6bbc0b9d75f885fcd7e6c01294c5593124d8feba8e73c8efef318836812"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "9a36844a-6667-491e-8270-4d05f05ec88e",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:08:18.363Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "3b3e7dd35feb07ad15a818a3db8dcdb637942fdd8d5ffe60d886cb9b4bd0a771"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "28649b14-f83b-41b4-be2b-5755a7bd40c1",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:08:45.337Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "93694332e7a5f6400377947bb265fa11542573cd68312fb07ea5a9f4ccb7303b"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "b5f6a305-4fa7-46e5-95c2-26e9897c6bec",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:08:51.221Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "8819211a63b86f0d9b13ba3121c64c75e9c9392c8f319c365238207924b14cac"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "b53a4c80-d6ed-4c23-8f76-58259504e747",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:09:47.703Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "5fb5058bb9e98a0be4b2230ed665f50a221073f7e31d4a0b2f3dd97465a0247d"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "7983f7f6-d546-4542-8692-d12c5b893d57",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:09:50.917Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "5ec1b7b56ae5f20f754baf204215349eb413b03124826d83d41a23346ea5d2be"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "4c9e575e-2a27-48d3-85c3-aa283309e39c",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:09:51.885Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "08116365889fdf089e10097f6b3cccc9b1c15305008f9443c341737f744ca58f"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "15c3ad62-9850-465d-a7f0-2478e55a136c",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:09:54.316Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "86e3685391c534d3408c4e3c5226b5f1da6f91c9ee0122806c5dd7d190a7693c"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "452acec3-996a-4793-b69a-ecec829718fa",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:10:18.588Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "3285298e4eb73263e5cb603586d0676239a1abd26e8b35c1cd642bfbbc3a3d5a"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "e489de47-5b6d-4bac-bd9a-70aa5eeda8be",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:10:37.982Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "ff8e61be152fdf60f716c32e624e3851b972fdb6dffd337eacd2d0a0a9a4472b"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "f6571335-cc83-4a02-b899-af31b55d8e2f",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:10:47.656Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "ceec29cbf9cc6e6ada89e36f3d4e729ddfaf62e0546681098547e5dfff2411e4"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "2ae14159-f4eb-47b1-b4fa-9f28437ec36c",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:10:52.460Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "1605dbd8228ec4d2819a3f448e7fe221b95b30f17e53f4c42dcb7c285ac61bcd"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "3f7fa12e-0f1f-4ab4-af3c-311271bffa3a",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:10:55.736Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "ca413dfa8f0a9fd4f5e3c6f6e9ffcc56a3d6efac8edfc83b2bb196b0720977e3"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "8bb87156-37c7-4a91-8f7d-8178383b0cba",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:11:12.156Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "a5401ba2be3d8b7bf199b94288acfc75b282d9816496c0e40bd98b5f6f0ea7e5"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "a290a829-2ad3-4b11-9f84-cb849c92930a",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:11:23.032Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "2651c93720a27fb1837106982ba7b669ca8dd9ab9bb6fb0a0e5c2a51e86d9331"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "be35abc8-e92a-4db9-85c7-1af70022a5b6",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:11:39.529Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "a40c014943b16d72fc5c212434598fbe6e41f50681642c77656b45d05f76a219"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "3f382701-44c2-4197-ad60-b8d27275f25e",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:12:17.402Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "ba69040a5163f9323cdca8d82bea818104ac43d8aca9ca03029dc1912d826d41"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "455d38ac-aae6-4a72-9a23-af4c875d6c3c",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:18:29.907Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "6cfc5c34d8d7bbe1eb71fba80c040ee6929f730cc96c6ab2223ddb41ab946aa5"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "b45aa6eb-0c8e-45a0-aa14-c08ba76ad822",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:18:39.183Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "8d8cc966c5efdc2ab83ef1b2c14789907f4a5dabf2d74ab2a696288911665e63"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "309ade2b-ab62-4c2e-887e-2c4fffd974d5",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:19:54.955Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "e618f6ed5fffb3da67ee25f142c60b79354b66ad75cd3737fab2f6a6bfe82e31"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "3a17d203-e726-491a-af1f-9b680c5204d4",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:21:21.420Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "0ab370277d8793dc28be4faa5925011dd0caa39cf30dbe38dbbb9641820c60c6"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "5e6eea8f-98c3-4391-b4ef-589b356e27bf",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:21:30.520Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "9bd18c2c6f6ff202098f01ff6fb180734d9da4bedc071993e8b35f018e06b0b3"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "5c80681e-b257-4223-b975-88dca119f57a",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:23:05.317Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "f077aec140e960ae91bf61dd32f81ac4bb90424023de38a7c83453182d43fad4"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "75cacbf9-f316-40d0-9bca-da12a5ca5587",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:48:18.380Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "0c4c72e6926f1bd666a9dbdfa598e3eddbbdbdedef23ae726fdb135424927bca"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "7e20ac14-7c8c-433b-bf55-f04170ffb51f",
+      "status": "active",
+      "dateLastModified": "2022-01-17T02:49:07.195Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "e14131a7c426a528d3738b8d463652813c62a0023e86aa670df57e7ef061abb4"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "88f2f4f1-8f4f-4b9e-950e-c0d2c02c34e0",
+      "status": "active",
+      "dateLastModified": "2022-01-17T03:21:17.710Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "bef6393dc99ae455f4a103b5c9727fdf6a5f5adbdbe8c779c425c893d3c683a0"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "dc12b39e-59d0-492f-a179-fbcf7f1f7331",
+      "status": "active",
+      "dateLastModified": "2022-01-17T03:48:42.772Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "5f7729c2db18155533d38fbd17d0f862a6a219993a2e676e2c3b86112f224264"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "91a4f2b4-3150-4be0-94a7-fd9e14345fa1",
+      "status": "active",
+      "dateLastModified": "2022-01-17T03:48:50.675Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "c60025053d8113a58acbace75d3e9246738fc308e02460befa3bc0b5d7c9bb17"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "b451228b-71e4-432b-ab48-922df4836507",
+      "status": "active",
+      "dateLastModified": "2022-01-17T03:48:53.218Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "961b4cf9ab8bbf195ba6639ced3cca6b8a78292f3f3f53bd3932042ad940c36b"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "47f7fcc4-f8f1-4d8a-a514-8cac33ee6884",
+      "status": "active",
+      "dateLastModified": "2022-01-17T03:48:55.670Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "63e03423dfaf98be15a11048f9c07ab2b29e8d876b9cf57b56fb7ecc0201a5f1"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "60b25235-164f-45dd-8cef-6989db1070b4",
+      "status": "active",
+      "dateLastModified": "2022-01-17T03:49:35.041Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "06d5239d5eb8bd9d1c414b2c7312ba3b3c4196676d379a356ba1f1bd67edbb80"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "7f1545e9-cd88-4158-a932-d0d334976b16",
+      "status": "active",
+      "dateLastModified": "2022-01-17T03:49:50.848Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "222d7ae584e82f6b1e15407fa29f4ab9c805aebcfb515829ab6ffa9f3d3da8a3"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "d6240686-4fd1-4a5f-8601-ec3d0f4a0b63",
+      "status": "active",
+      "dateLastModified": "2022-01-17T03:49:49.736Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "79018784c4c2db547ff1ed07e1a0445d7b4405141104b9a2cff5b4807c1db669"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "6a88179d-fb14-48f2-82a0-b0d23daa4c62",
+      "status": "active",
+      "dateLastModified": "2022-01-17T03:50:18.794Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "ffc805fae91d4ad531425b85167f5dc6adc368fcc183133c12cf423708519a6b"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "46a6d452-3714-429b-9b94-3aacd0aea104",
+      "status": "active",
+      "dateLastModified": "2022-01-17T06:21:04.337Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "6ca5cb9a7047b99899d8aeac819bd0a54cb7fc70a2b6d7daaa4654b7fe133967"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "bfa5b048-1148-497f-9127-7c2865c13bb0",
+      "status": "active",
+      "dateLastModified": "2022-01-17T06:21:26.811Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "2472f616a79f5cf8e0f8a6e2a1f18f36a90f32c8fe33792eb5ed4b421d9b609e"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "1c342736-cbc4-4368-9aea-1894996fe1bd",
+      "status": "active",
+      "dateLastModified": "2022-01-17T06:21:37.715Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "415b2cac798ed3558c314cb07705aecf698ad5c3ea31d8327fbc5a7f3c737244"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "cb6e9601-20f1-4bad-89b0-849c267cca18",
+      "status": "active",
+      "dateLastModified": "2022-01-17T06:22:55.730Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "c2f7b3150b8906b6b2dfeb8267b9f09e1157e6b8ec61e93ae9455b20cb02871c"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "b0e1446d-9ec3-4104-845b-7f3d141e4078",
+      "status": "active",
+      "dateLastModified": "2022-01-17T06:49:12.700Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "21f9a33fa1420ca2a170b78d1df650f81b6525a6ce3e4517e74936b618124d4f"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "01ee55ab-3313-48cc-824f-92c7788658ec",
+      "status": "active",
+      "dateLastModified": "2022-01-17T06:49:34.031Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "0e220cadc399ac5ba34c9c781519ce2d337f64cdf74c3004842a9a3d2df8379e"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "21167617-1b7d-406b-a152-cc8400b734b8",
+      "status": "active",
+      "dateLastModified": "2022-01-17T06:49:34.592Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "24c1f7f6a85285c0e23badfe5712015136f6945221f9dbaf4860e248ce5fa7fe"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "7d08ddae-6688-4ed4-af2a-5e15dd5a6281",
+      "status": "active",
+      "dateLastModified": "2022-01-17T06:50:15.322Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "832b82ed1b78c693ab115d5ad3319596e2f4d84a93c9cd3ca5d74c39a7c80dd2"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "8233c333-0932-433f-99ff-040c2215d046",
+      "status": "active",
+      "dateLastModified": "2022-01-17T12:21:04.341Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "a146aad8ae5a212146047a88b46efdd5311219ee903d88a2816937fa4fcc85f6"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "b8b0f910-84e9-4587-81fa-e53f3ae6c963",
+      "status": "active",
+      "dateLastModified": "2022-01-17T12:21:47.674Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "29831aca402032202d44a9e38c7061c5207c334abf0c3b5c6dbc0cabe9e7e2f5"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "cf4b6df4-e720-437a-8ec3-2683c5556591",
+      "status": "active",
+      "dateLastModified": "2022-01-17T12:21:58.767Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "d697cc58df576e3a870666b6a2dcd3db807495b47183f3daa791cc364880cacb"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "452ec76c-ead7-4288-b922-237bee608242",
+      "status": "active",
+      "dateLastModified": "2022-01-17T12:22:30.318Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "42689d91a5966c70c9340f1807a1347a17e5ff900a20766d4465c4d4983c58f6"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "7998dd62-6abf-4fee-91ab-19470046b848",
+      "status": "active",
+      "dateLastModified": "2022-01-17T12:22:37.790Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "21bccd59ac70e0688d486ca05989ebd5e8b21027c6bab92c8b6a7c9afa015883"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "f5479ab5-c257-4aa0-b4f9-a24c7131bf6d",
+      "status": "active",
+      "dateLastModified": "2022-01-17T12:49:57.231Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "6fefec49d46d585b22e65d35bbe39a3b09e1defe6fd2b8c3d8df6d6adf8925f4"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "5e7f7507-0412-4fe2-87fa-14b6517e7076",
+      "status": "active",
+      "dateLastModified": "2022-01-17T12:50:08.287Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "435d81c83cf884ac803334718f7f3bb587fbfdb8963ef33c67ce7ee2507371ef"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "f0444e0c-2528-40de-ae90-94a578245f60",
+      "status": "active",
+      "dateLastModified": "2022-01-17T12:50:15.599Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "64cca71ce55586d451fef1f77302ccfd826fa628b144c8770781f80b152914e3"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "06a2a2c5-d4a9-40e1-9722-ad802f2a6c04",
+      "status": "active",
+      "dateLastModified": "2022-01-17T12:50:15.918Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "c53a1810128e0746272d558db4188702c0ef212218dc98c71ac84696eb54bed8"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "6bad2ab4-5092-45a7-b8b9-66f417b1db6f",
+      "status": "active",
+      "dateLastModified": "2022-01-17T12:50:27.625Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "e26f5875162373e6eec3890e187e6971fe201af5d9f09ada04d9cf51a8e352dd"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "ccc349ea-7bfb-404f-bf95-ded6f28cb440",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:21:59.965Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "1e01b50ea954ce73125ce044e7fdea74e23023cfdd34cd7040654397d97d0dcc"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "75aa76e0-ade7-496a-982e-b7912dea1797",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:23:01.080Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "5a21c7b6b9298e3b7df91df5e8196a39860f3b3c37891993f6af0f69760f37c6"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "4f48829a-e2db-4fa3-a4aa-f851c98d33d1",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:48:53.109Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "83da55e9ae4424209eafd69f3ec1d9565abe137097cbd0e198b8a9377761ae5a"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "d24dae83-a54e-4c78-b643-e8bdf85dfcbf",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:49:39.973Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "b04ca02b2e75d0d3feb19b6aea0fd9b5630116f42229bd7bd557f4dcac8fe625"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "f7bb5ef7-670e-47f0-bcc4-e81c83c6c728",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:50:26.045Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "fcf6c9595ea7076b733f9945852911047a6ea4dc47e3fdcdfde3d0d8fd7c3810"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "454181b4-85b1-4737-98bf-de26cdb99a48",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:50:30.938Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "30ad65bc6a4ba1970870b4bd1e9a279ef355b59de9c863efd02eed036ed7e672"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "5d04cc76-4f2c-46d7-a7ce-135d94338554",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:50:33.498Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "bfa1158960a06abdab47fdbce94de7a98a0e0948a9ad5de9e35b33199697a67f"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "2b6678c4-3d86-4bf4-a66e-b0dc8918ac36",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:50:34.142Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "10f0e8d280987e3b7d755b5dceed12e93b1c904fa605fe7286853d5d7eadd69a"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "03476f8d-b422-4c44-8f4b-3da0ba9ac454",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:50:53.134Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "c3861ce603174800849cd9062d8f5e390b6c8daab5afe797521fa6df99d7e0dd"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "47b7cd32-6cda-4ed3-a5f9-c16aa4d14ca2",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:51:02.499Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "d8a808f26b5620d809f840ad049214d7c52742a7686d7b6abed51fc3845abe50"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "8ff41fe5-a7e2-4e99-858e-9ca809f945d9",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:51:19.626Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "476aedd2bea52a0955450733fcdba1d39c48659382130ea8f0d715f4e62b006c"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "99e111cd-ee84-4c57-b96c-32d827ac75ec",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:51:26.322Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "cde53305dbd7f00fc21f59ae43dddf2a6a1b9018f8e4f74246dac3f2f95262b6"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "a60f5860-673a-4f3c-b809-759303e0a5ce",
+      "status": "active",
+      "dateLastModified": "2022-01-18T00:51:31.455Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "7466a5229c967fbae06e87c179d3b7dc9a90e2f0114c4f4b81fcf8f0b01fe9f2"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "3cc3ea00-e2c5-4451-afaa-2f97ff5c3466",
+      "status": "active",
+      "dateLastModified": "2022-06-15T21:09:09.073Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "23bc1caae365d75b4b4b0624c066116d3ce9d59ea33f66ae4519b4b73897429b"
+        }
+      },
+      "username": "JoeMamma0958",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "9583551c-9ff1-4c17-a4b3-9c31145389b2"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7892"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "2qFbFMHpaPdVJwlA3AohDQN0oCJFHX39XTL9VE0U"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Joe",
+      "familyName": "Mamma",
+      "role": "student",
+      "identifier": "9583551c-9ff1-4c17-a4b3-9c31145389b2",
+      "email": "joe.mamma@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "b2492ebc-8fc0-40f8-bd51-4c5344f1d31a",
+      "status": "active",
+      "dateLastModified": "2022-02-02T20:29:44.445Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "ec1e6506c38ba6df51eeff7c0b525d36626adba62ae7491fdce447615f09b6fb"
+        }
+      },
+      "username": "AlexTester",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "fcdc4e4e-b6d0-477b-b70b-f807ca4320d7"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "564"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OTq4WmWzYlOBtdIfy7XufYr1LzNJD6gXjtdNnSF9"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Alex",
+      "familyName": "Tester",
+      "role": "student",
+      "identifier": "fcdc4e4e-b6d0-477b-b70b-f807ca4320d7",
+      "email": "paul.brillhart@strongmind.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/1482e881-d4da-4456-97de-0db8d0927d7c",
+          "sourcedId": "1482e881-d4da-4456-97de-0db8d0927d7c",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "98c5fe91-6734-4770-9014-754a864482fe",
+      "status": "active",
+      "dateLastModified": "2023-06-17T17:48:57.345Z",
+      "metadata": {
+        "StrongMind": {
+          "relationType": "Aunt"
+        }
+      },
+      "username": "character@Parenttest8251C",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "8301"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "f0dc39ef-3f81-4c11-bdb3-f84d215687ac"
+        },
+        {
+          "type": "powerschool_id",
+          "identifier": "8251"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "character@",
+      "familyName": "Parenttest",
+      "role": "guardian",
+      "identifier": "8251",
+      "email": "character@parenttest.com",
+      "agents": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/06920360-c8aa-4b67-a54f-bcde86427b0a",
+          "sourcedId": "06920360-c8aa-4b67-a54f-bcde86427b0a",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "sourcedId": "5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "4a6f9b32-4ed9-4b1c-989f-1f8a68a0d4e0",
+      "status": "active",
+      "dateLastModified": "2022-07-01T23:05:13.170Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "d0d759550de04aa818e09e0a69d9e07026ccac7a0cd43ba606cf2a94047f9006"
+        }
+      },
+      "username": "ExampleSix0957",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "957197a1-fa6c-44c1-a48a-36139ca70070"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "135"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "uyvlxofewUHvybvNpCB9ukV7LAPfhTjqigB5qEDE"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Example",
+      "familyName": "Six",
+      "role": "student",
+      "identifier": "957197a1-fa6c-44c1-a48a-36139ca70070",
+      "email": "example6@example.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/4c01891b-d347-45f4-82f6-4b74fc8871df",
+          "sourcedId": "4c01891b-d347-45f4-82f6-4b74fc8871df",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "a1f1e099-23b3-467a-a2e1-f9c1f4404aa7",
+      "status": "active",
+      "dateLastModified": "2022-03-08T22:44:06.526Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "4a6368eb13136e60ee0cf71524458bd0251ce538857aa53e931bea1f535d1a9c"
+        }
+      },
+      "username": "Ryan.Wolfe@strongmind.com",
+      "userIds": [
+        {
+          "type": "canvas_user_id",
+          "identifier": "7712"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "mQNh7Uc1q0dygTp1WdjTBpm6oSXccPxUGdUjrBrq"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "4a88dcb1-81a9-443f-9c79-0f1fb1cf2d11"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Ryan",
+      "familyName": "Wolfe",
+      "role": "student",
+      "identifier": "donotuseme2",
+      "email": "Ryan.Wolfe@strongmind.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/1482e881-d4da-4456-97de-0db8d0927d7c",
+          "sourcedId": "1482e881-d4da-4456-97de-0db8d0927d7c",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "d8272ac2-c9df-45f4-b45e-537487bc7a40",
+      "status": "active",
+      "dateLastModified": "2023-06-17T17:47:31.513Z",
+      "metadata": {
+        "StrongMind": {
+          "selfGuardian": false,
+          "partTimeStudent": false,
+          "physicalAddress": {
+            "street": null,
+            "city": null,
+            "state": "AZ",
+            "zip": null
+          }
+        }
+      },
+      "username": "DiegoDelgado495",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "4303"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "495"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "54f8aefb-f8df-47a9-8887-f1be57296761"
+        }
+      ],
+      "enabledUser": "false",
+      "givenName": "Diego",
+      "familyName": "Delgado",
+      "role": "student",
+      "identifier": "495",
+      "email": "ricardo.delgado@strongmind.com",
+      "agents": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/users/b634c85c-b14d-4fca-8b55-0718b9262762",
+          "sourcedId": "b634c85c-b14d-4fca-8b55-0718b9262762",
+          "type": "user"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "sourcedId": "5ac1ba75-77f5-4500-a5fa-60cc635b7d5e",
+          "type": "org"
+        }
+      ],
+      "grades": [
+        "12"
+      ]
+    },
+    {
+      "sourcedId": "14a82716-8c6a-4c43-b151-bf9745cdab19",
+      "status": "active",
+      "dateLastModified": "2022-05-23T23:18:37.320Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "da250c02683da151d05d4c62d22fbc9257c8b5c83a867abc5c1d2a016e56501f"
+        }
+      },
+      "username": "trans_checktestdelete_cb30d684",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7869"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OzLffXSrc2ew7eFPj1p8qzzDJ6zIdsDJjOAVRHjy"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "trans",
+      "familyName": "checktestdelete",
+      "role": "student",
+      "identifier": "463c0642-3dec-4055-baa0-e03ceb84194f",
+      "email": "deleteme@sharklasers.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "812c3f83-fea7-412c-becc-38393b5d2fc2",
+      "status": "active",
+      "dateLastModified": "2022-02-24T18:55:26.690Z",
+      "username": "adriana.barreda11181811",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "252"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "11181811"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "2fcd0c0a-e8da-475f-8d6e-662eac3fa058"
+        },
+        {
+          "type": "powerschool_users_dcid",
+          "identifier": "202"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Adriana",
+      "familyName": "Barreda",
+      "role": "teacher",
+      "identifier": "11181811",
+      "email": "adriana.barreda2@strongmind.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/bee7e22a-524a-4095-bbce-7550a1714f22",
+          "sourcedId": "bee7e22a-524a-4095-bbce-7550a1714f22",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "9fe365c3-ab43-4d1c-85ca-dbc633f05767",
+      "status": "active",
+      "dateLastModified": "2022-02-24T18:57:07.005Z",
+      "username": "TylarJensen62",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "1052"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "62"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "33d1a591-1651-4cfd-9546-be151ae8c6f8"
+        },
+        {
+          "type": "powerschool_users_dcid",
+          "identifier": "1002"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Tylar",
+      "familyName": "Jensen",
+      "role": "teacher",
+      "identifier": "62",
+      "email": "tylar.jensen@strongmind.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/bee7e22a-524a-4095-bbce-7550a1714f22",
+          "sourcedId": "bee7e22a-524a-4095-bbce-7550a1714f22",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "05b1acaf-570a-4e8f-8874-831aac140da8",
+      "status": "active",
+      "dateLastModified": "2022-03-09T22:29:02.794Z",
+      "username": "Pavani.Koyilada@strongmind.com",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "1451"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "314"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "0ddeba6d-1b2d-4e1d-9818-28fbd726b06c"
+        },
+        {
+          "type": "powerschool_users_dcid",
+          "identifier": "168"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Pavani",
+      "familyName": "Koyilada",
+      "role": "teacher",
+      "identifier": "314",
+      "email": "Pavani.Koyilada@strongmind.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/bee7e22a-524a-4095-bbce-7550a1714f22",
+          "sourcedId": "bee7e22a-524a-4095-bbce-7550a1714f22",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "2e8ab2bb-aed0-4d7e-be75-52a42c04af03",
+      "status": "active",
+      "dateLastModified": "2022-07-21T23:22:53.435Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "00725d478a5ba44082f02b9ef9afc06421c268ee844d01469a744a3b649881d8"
+        }
+      },
+      "username": "KanyeNorth23000149",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "3f51cb5f-040e-4898-9c5c-246a530c30df"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7934"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "OQyhOwybQIoN5Wv6asFAcZQKztjSKXDN5653qVMW"
+        },
+        {
+          "type": "canvas_sis_user_id",
+          "identifier": "130:student:3f51cb5f-040e-4898-9c5c-246a530c30df"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Kanye",
+      "familyName": "North",
+      "role": "student",
+      "identifier": "3f51cb5f-040e-4898-9c5c-246a530c30df",
+      "email": "sonny.huynh+kanyenorth@strongmind.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/1482e881-d4da-4456-97de-0db8d0927d7c",
+          "sourcedId": "1482e881-d4da-4456-97de-0db8d0927d7c",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "a775f8cd-3f96-4ce1-8eb3-d040f76b9bd0",
+      "status": "active",
+      "dateLastModified": "2022-04-05T17:30:36.586Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "28f68304187dd337d5c6e5276bcd8bbae48e9e309d48ad219ba7617ed365e31d"
+        }
+      },
+      "username": "610a24bbbc6c67cbf38988c8",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "82fbf0ce-e358-4c77-a982-b384bdee28d7"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "7494"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "Qt2nSsir9ijP2lUAr7XxZsJm4leZ3k05G0eOymZe"
+        },
+        {
+          "type": "canvas_sis_user_id",
+          "identifier": "6a55f404-fff3-4c6e-972f-9ed94f7e2e10"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "test pav",
+      "familyName": "clever",
+      "role": "student",
+      "identifier": "82fbf0ce-e358-4c77-a982-b384bdee28d7",
+      "email": "dounawagesso-5933@yopmail.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/1482e881-d4da-4456-97de-0db8d0927d7c",
+          "sourcedId": "1482e881-d4da-4456-97de-0db8d0927d7c",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "d865b2f0-8a27-454a-a078-72f610b8edc7",
+      "status": "active",
+      "dateLastModified": "2022-05-18T02:01:33.813Z",
+      "metadata": {
+        "StrongMind": {
+          "SourceHash": "8225f3390c13a43934c2e1caccb8e704f1cb1be590e40bceda41319e8ddf9312"
+        }
+      },
+      "username": "Josh_Chin_649d052e813f1b96",
+      "userIds": [
+        {
+          "type": "identity_id",
+          "identifier": "03a94e06-c9fd-4947-9210-2e543966ff77"
+        },
+        {
+          "type": "canvas_user_id",
+          "identifier": "362"
+        },
+        {
+          "type": "canvas_user_uuid",
+          "identifier": "RoQIVKXu0tKFfRAgPpvocYSXAUOTnWclBX1IgxDl"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Josh",
+      "familyName": "Chin",
+      "role": "student",
+      "identifier": "03a94e06-c9fd-4947-9210-2e543966ff77",
+      "email": "josh@chin.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/59b9ef7f-b958-41f3-af65-729934e5a825",
+          "sourcedId": "59b9ef7f-b958-41f3-af65-729934e5a825",
+          "type": "org"
+        }
+      ]
+    },
+    {
+      "sourcedId": "IntegrationTestDataTeacherUserType3",
+      "status": "tobedeleted",
+      "dateLastModified": "2022-10-03T17:48:29.771Z",
+      "username": "Usernamea48de1bd-02f2-4136-aea0-a86f23b19fdd",
+      "userIds": [
+        {
+          "type": "Typefd2b2163-0ae0-4338-af89-ad4c5bbf2c98",
+          "identifier": "Identifier23e9f4a1-679c-4e4c-913a-823399aa131c"
+        },
+        {
+          "type": "Typefeac0a39-0d54-483d-8408-bbf3ec4f4ddd",
+          "identifier": "Identifierab0bdcda-5ef9-4cc7-9910-c1acd2ed3e5c"
+        },
+        {
+          "type": "Type17501dc9-ec5d-49c5-8336-038f03f5a5e3",
+          "identifier": "Identifierc34bf83f-350d-4df0-87d8-fbf707d8004a"
+        }
+      ],
+      "enabledUser": "false",
+      "givenName": "GivenNamef65db3db-8ad7-44fc-829f-d00d68de2300",
+      "familyName": "FamilyName363c988b-f45a-49a0-884e-b6efe56a10fe",
+      "middleName": "MiddleName75df45b5-6162-48aa-b4e1-08fb3f817dc8",
+      "role": "teacher",
+      "identifier": "Identifierd36c3f47-1f8c-4e4f-a7bf-ff6bed1ce740",
+      "email": "Email1ec46af7-055f-4a6a-8534-5f329387b393",
+      "sms": "Smsc00d4d4f-c2c0-4944-97c8-312fff2ac1d9",
+      "phone": "Phone7ef5ed60-03da-4146-9935-3adcfc0c600d",
+      "agents": [
+        {
+          "href": "Href3d43ff5b-4f49-49f3-a512-840640a0e57c",
+          "sourcedId": "SourcedIdaf1edb32-7c5b-4b4e-9328-4d1238c58b1a",
+          "type": "course"
+        },
+        {
+          "href": "Hrefcab3cf4d-2396-4244-8fac-4bd29c364543",
+          "sourcedId": "SourcedIde2c99932-054e-4a40-ad57-0fe5afe48279",
+          "type": "demographics"
+        },
+        {
+          "href": "Href8295bd4c-ee8a-49c3-81c3-bcfcc9bebb07",
+          "sourcedId": "SourcedId4977bb7f-b48e-433b-92da-cd8d23025d92",
+          "type": "enrollment"
+        }
+      ],
+      "orgs": [
+        {
+          "href": "Hrefe1f3825f-1ed2-4b0a-86fd-f0c9eafe93ae",
+          "sourcedId": "SourcedIda0d7d8bd-ee39-42b5-a168-7ea6bacd0359",
+          "type": "lineItem"
+        },
+        {
+          "href": "Href67069be0-94ad-4ed2-b934-46dfab602500",
+          "sourcedId": "SourcedIdfeff7130-8946-4b90-8e01-9a0d698af3ed",
+          "type": "org"
+        },
+        {
+          "href": "Href3c0d663c-2352-4216-b1bd-88c933a9b699",
+          "sourcedId": "SourcedId584837b7-e81c-4148-baa0-17eb5a480152",
+          "type": "resource"
+        }
+      ],
+      "grades": [
+        "6acd3f96-b82f-4c45-b021-8cf97eb81b16",
+        "458436cf-fcc4-4cac-a557-60ba10bb7faa",
+        "2aab0f99-9ba4-415d-b03f-d5c64e241307"
+      ],
+      "password": "Passwordcc1997a8-1d27-4c81-9a94-737d29bff4fa"
+    },
+    {
+      "sourcedId": "c57719d2-894e-4dc9-948f-288a030c0a07",
+      "status": "active",
+      "dateLastModified": "2022-06-15T00:22:48.185Z",
+      "username": "RandySnowjs105",
+      "userIds": [
+        {
+          "type": "powerschool_dcid",
+          "identifier": "1919"
+        },
+        {
+          "type": "powerschool_number",
+          "identifier": "js105"
+        },
+        {
+          "type": "identity_id",
+          "identifier": "147d368d-f76f-41bb-b540-5ea0f4768744"
+        },
+        {
+          "type": "powerschool_users_dcid",
+          "identifier": "1502"
+        }
+      ],
+      "enabledUser": "true",
+      "givenName": "Randy",
+      "familyName": "Snow",
+      "role": "teacher",
+      "identifier": "js105",
+      "email": "James.Snow@Strongmind.com",
+      "orgs": [
+        {
+          "href": "https://devapi.platform.strongmind.com/ims/oneroster/v1p1/orgs/7b98ae7d-1387-4f6a-9e6a-dfd21b420248",
+          "sourcedId": "7b98ae7d-1387-4f6a-9e6a-dfd21b420248",
+          "type": "org"
+        }
+      ]
+    }
+  ]
+}

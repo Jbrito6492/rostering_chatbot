@@ -50,7 +50,7 @@ namespace :vector_db do
             }
           ]
         }, {
-          "dataType": ["boolean"],
+          "dataType": ["text"],
           "description": "Whether the user is enabled",
           "name": "enabledUser"
         }, {
