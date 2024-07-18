@@ -1,7 +1,12 @@
 module MessagesHelper
+  require 'json'
+
   def format_content_with_embedded_json(content)
-    content.gsub!(/```(.*?)```/m) do
-      json_string = $1.strip
+    regex = /```(.*?)```|(\{.*?})/m
+
+    content.gsub!(regex) do |match|
+      json_string = match.strip
+      json_string.gsub!(/```/, '')
       begin
         json_pretty = JSON.pretty_generate(JSON.parse(json_string))
         "<pre class='bg-gray-200 p-2 rounded'><code>#{json_pretty}</code></pre>"

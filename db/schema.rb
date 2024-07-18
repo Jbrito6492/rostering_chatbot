@@ -10,9 +10,10 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2024_06_24_005819) do
+ActiveRecord::Schema[7.1].define(version: 2024_07_18_063200) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+  enable_extension "vector"
 
   create_table "conversations", force: :cascade do |t|
     t.datetime "created_at", null: false
@@ -26,6 +27,7 @@ ActiveRecord::Schema[7.1].define(version: 2024_06_24_005819) do
     t.datetime "updated_at", null: false
     t.string "llm_provider"
     t.string "role"
+    t.json "ragas_score"
     t.index ["conversation_id"], name: "index_messages_on_conversation_id"
   end
 

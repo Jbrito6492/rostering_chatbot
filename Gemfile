@@ -74,4 +74,4 @@ gem "anthropic", "~> 0.1.0"
 gem "aws-sdk-bedrockruntime"
 gem "langchainrb"
 gem "ruby-openai"
-gem 'weaviate-ruby' # for weaviate
+gem 'weaviate-ruby'

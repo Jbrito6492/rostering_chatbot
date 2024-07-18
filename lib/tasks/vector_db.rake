@@ -1,17 +1,37 @@
 require 'weaviate'
 
 namespace :vector_db do
-  desc "Create a schema for the user"
-  task create_user_schema: :environment do
-    client = Weaviate::Client.new(
+  def open_ai_llm
+    @open_ai_llm ||= Langchain::LLM::OpenAI.new(api_key: ENV['OPENAI_KEY'], default_options: { chat_completion_model_name: 'gpt-4' })
+  end
+
+  def vector_search_client
+    @vector_search_client ||= Langchain::Vectorsearch::Weaviate.new(
+      url: ENV["WEAVIATE_URL"],
+      api_key: ENV["WEAVIATE_API_KEY"],
+      index_name: "User",
+      llm: open_ai_llm
+    )
+  end
+
+  def anthropic_llm
+    @anthropic_llm ||= Langchain::LLM::Anthropic.new(api_key: ENV["ANTHROPIC_API_KEY"], default_options: { chat_completion_model_name: 'claude-3-haiku-20240307' })
+  end
+
+  def weaviate_client
+    @weaviate_client ||= Weaviate::Client.new(
       url: ENV["WEAVIATE_URL"],
       api_key: ENV["WEAVIATE_API_KEY"],
       model_service: :openai,
       model_service_api_key: ENV['OPENAI_KEY'] # Either OpenAI, Azure OpenAI, Cohere, Hugging Face or Google PaLM api key
     )
+  end
+
+  desc "Create a schema for the user"
+  task create_user_schema: :environment do
 
     puts "creating user schema..."
-    client.schema.create(
+    weaviate_client.schema.create(
       class_name: 'User',
       description: 'a user adhering to OneRoster 1.1 standard',
       properties: [
@@ -135,5 +155,23 @@ namespace :vector_db do
       ],
       vectorizer: "text2vec-openai"
     )
+  end
+
+  desc "Populate User collection in Weaviate cluster with OneRoster text data"
+  task add_spec_text_file_without_ai: :environment do
+    final_spec_file = Langchain.root.join(Rails.root.join('lib', 'data', 'docs', 'one_roster_v11_final_spec.txt'))
+    vector_search_client.create_default_schema
+    res = vector_search_client.add_data(paths: [final_spec_file], chunker: Langchain::Chunker::RecursiveText)
+    p res
+  end
+
+  task add_spec_text_file_with_ai: :environment do
+    final_spec_file = Langchain.root.join(Rails.root.join('lib', 'data', 'docs', 'one_roster_v11_final_spec.txt'))
+    specification_text = File.read(final_spec_file)
+    anthropic = Langchain::LLM::Anthropic.new(api_key: ENV["ANTHROPIC_API_KEY"], default_options: {max_tokens_to_sample: 200000})
+    chunks = Langchain::Chunker::Semantic.new(specification_text, llm: anthropic).chunks
+    vector_search_client.create_default_schema
+    res = vector_search_client.add_texts(texts: chunks.map(&:text))
+    p res
   end
 end
