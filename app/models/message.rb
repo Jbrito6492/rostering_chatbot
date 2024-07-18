@@ -4,7 +4,7 @@ class Message < ApplicationRecord
   after_create :generate_rag_response, if: -> { role == 'user' }
 
   def generate_rag_response
-    llm_response = ROSTERING_CHATBOT.ask(question: content)
+    llm_response = ROSTERING_CHATBOT.ask(question: content, k: 20)
     ai_response = llm_response.chat_completion
     ragas_score = generate_ragas_score(question: content, answer: ai_response, context: llm_response.context)
     conversation.messages.create!(content: ai_response, role: 'bot', llm_provider: 'openai', ragas_score:)
